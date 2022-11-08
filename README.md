@@ -1,16 +1,17 @@
-### Hi there 👋
+#### Hi there 👋
 
-<!--
-**felipeinostrozaloaiza/felipeinostrozaloaiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Developer, Computer Enginnering from Chile
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨Currently working for  
+
+- 🍑 What about this?
+
+##### BIO
+
+- 🏢 I'm currently working at FIL SPA. Development, Computer consulting. 
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.java`, `.py`
+- 🌱 Learning all about **Open Source**
+- 📫 Reach me: [linkedin.com/in/inostrozaloaiza/](https://www.linkedin.com/in/inostrozaloaiza/)
+- ⚡️ Fun fact: I'm a huge fan of Soccer
