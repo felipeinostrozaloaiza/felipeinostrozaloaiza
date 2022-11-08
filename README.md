@@ -4,10 +4,10 @@
 
 ##### NOW
 
-- ✨Currently working for  
+- ✨Developer with 4 years experience. I have worked on different projects.
 
-- 🍑 What about this?
 
+ 🍑 What about this?
 ##### BIO
 
 - 🏢 I'm currently working at FIL SPA. Development, Computer consulting. 
