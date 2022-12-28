@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨Developer with 4 years experience. I have worked on different projects.
+- ✨Computer department manager in Antumalal.net Chillan, Chile. Developer.I have worked on different projects.
 
 
  🍑 What about this?
